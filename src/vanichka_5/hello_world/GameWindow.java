@@ -1,5 +1,5 @@
 package vanichka_5.hello_world;
-
+ // My oun project
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
@@ -75,5 +75,7 @@ public class GameWindow extends JFrame {
             repaint();
 
         }
+
+        System.out.println ("test");
     }
 }
