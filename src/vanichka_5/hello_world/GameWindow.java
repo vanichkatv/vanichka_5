@@ -77,5 +77,6 @@ public class GameWindow extends JFrame {
         }
 
         System.out.println ("test");
+        System.out.println ("test2");
     }
 }
